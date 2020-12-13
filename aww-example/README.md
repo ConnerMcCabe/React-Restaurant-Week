@@ -9,3 +9,6 @@ Have folderover pages with the relevant info on
 Things to consider: 
  - React using browser router can mimic the multi page aspect of original site
  - no longer a spa but may be what people want
+
+
+hogwarts?

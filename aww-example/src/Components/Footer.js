@@ -17,6 +17,7 @@ export default class Footer extends Component {
                 </div>
                 <div>copy right, Social links, button to scroll to top</div>
             </div>
+            
         )
     }
 }
